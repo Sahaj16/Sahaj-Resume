@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Your Name - Security Supervisor Resume</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+      line-height: 1.6;
+    }
+
+    header {
+      text-align: center;
+    }
+
+    h1, h2 {
+      color: #333;
+    }
+
+    section {
+      margin-bottom: 20px;
+    }
+
+    ul {
+      list-style-type: none;
+      padding: 0;
+    }
+
+    li {
+      margin-bottom: 5px;
+    }
+
+    .contact-info {
+      margin-top: 10px;
+    }
+
+    .education,
+    .experience {
+      margin-bottom: 20px;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Sahajpreet Kaur</h1>
+    <p>Security Supervisor</p>
+    <p>Address | Scarborough, ON | Phone: (123) 456-7890 | Email: shahjpreet@gmail.com</p>
+  </header>
+
+  <section class="education">
+    <h2>Education</h2>
+    <ul>
+      <li><strong>Degree in Security Management</strong> - Paragon Security Services</li>
+    </ul>
+  </section>
+
+  <section class="experience">
+    <h2>Work Experience</h2>
+    <ul>
+      <li>
+        <strong>Security Supervisor</strong> - ABC Security Services, City, State | Date Start - Date End
+        <ul>
+          <li>Implemented and maintained security procedures to ensure the safety of personnel and property.</li>
+          <li>Conducted regular security assessments and made recommendations for improvements.</li>
+          <li>Managed and trained security staff, ensuring compliance with company policies and procedures.</li>
+        </ul>
+      </li>
+      <!-- Add more work experience entries as needed -->
+    </ul>
+  </section>
+
+  <section class="skills">
+    <h2>Skills</h2>
+    <ul>
+      <li>Security Management</li>
+      <li>Surveillance Systems</li>
+      <li>Emergency Response</li>
+      <li>Team Leadership</li>
+      <li>Communication</li>
+    </ul>
+  </section>
+
+  <section class="references">
+    <h2>References</h2>
+    <p>Available upon request.</p>
+  </section>
+
+</body>
+</html>
